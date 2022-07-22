@@ -1,6 +1,6 @@
 # Introduction to Data Science with Python (Pandas) - Working on "Olymics" and "Census" datasets with interactive Q&A
 
-This repository consists of an Assignment wherein there are 2 parts. In the Part 1 of the assignment, work has been done on "Olympics" dataset and Part 2 consists of "United States Census" dataset. Whole Assignment will clear up the Basics concepts of Pandas and the way to visualize data  with an interactive Q&A, so as to understand the basics of Data Science with Python
+This repository consists of set of Assignments wherein there are 2 parts. In the Part 1 of the assignment, work has been done on "Olympics" dataset and Part 2 consists of "United States Census" dataset. Whole Assignment will clear up the Basics concepts of Pandas and the way to visualize data  with an interactive Q&A, so as to understand the basics of Data Science with Python
 
 ## Documentation
 This is the "Olympics.csv" dataset - 
